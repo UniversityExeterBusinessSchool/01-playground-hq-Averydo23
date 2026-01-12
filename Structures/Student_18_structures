@@ -1,19 +1,22 @@
-# My Structure - Student 18
+What I See in My Data
+In my dataset, I see a symmetrical pattern of letters arranged in a square shape.
 
-## What I See in My Data
-[Describe the codes, letters, numbers]
-H as Horizontal
-V as Vertical 
-Colors: Purple -> Choose purble bricks
-Type: Made it into frame shape
-Size 4x4 -> F
+The top and bottom rows consist of four "H" letters connected by dashes (H-H-H-H), which represent Horizontal components.
 
+The sides are marked with the letter "V", representing Vertical components.
 
-## What I Think This Means
-Collect purble bricks with size 1x2 and 1x4 and put it in together into  a frame with each length is 4 
-and have 2 floors.
+The metadata specifies the TYPE as a FRAME, the SIZE as 4x4, and the COLOR as PURPLE.
 
-## What This Could Be
-A frame with a hole inside
+What I Think This Means
+I interpret this as a hollow, square construction. The code implies that the structure is built using four-stud-long beams on the top and bottom, supported by vertical pillars on the left and right. Since the size is 4x4, it means the total footprint of this object occupies a square area of 16 studs on a Lego baseplate.
 
-## Questions I Have
+What This Could Be
+Based on the hollow "Frame" design, this could be:
+
+A window frame for a purple house.
+
+A portal or a magical gateway in a fantasy Lego set.
+
+The base of a raised platform or a sandbox in a Lego playground.
+
+A picture frame to display a small Lego mosaic.
